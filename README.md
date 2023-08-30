@@ -1,4 +1,4 @@
-# al-folio
+<!-- # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -158,32 +158,60 @@ Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.
 
 ## Table Of Contents
 
-  * [User community](#user-community)
-  * [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-  * [Table Of Contents](#table-of-contents)
-  * [Getting started](#getting-started)
-    - [Installation](#installation)
-      - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
-      - [Local Setup (Legacy)](#local-setup-legacy)
-      - [Deployment](#deployment)
-      - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-    - [FAQ](#faq)
-  - [Features](#features)
-    - [Publications](#publications)
-    - [Collections](#collections)
-    - [Layouts](#layouts)
-      - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math \& code](#full-support-for-math--code)
-      - [Photos](#photos)
-    - [Other features](#other-features)
-      - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
-      - [Theming](#theming)
-      - [Social media previews](#social-media-previews)
-      - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-      - [Related posts](#related-posts)
-  - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-  - [License](#license)
+- [User community](#user-community)
+- [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+- [Table Of Contents](#table-of-contents)
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+    - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
+    - [Local Setup (Legacy)](#local-setup-legacy)
+    - [Deployment](#deployment)
+    - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+  - [FAQ](#faq)
+- [Features](#features)
+  - [Publications](#publications)
+  - [Collections](#collections)
+  - [Layouts](#layouts)
+    - [The iconic style of Distill](#the-iconic-style-of-distill)
+    - [Full support for math \& code](#full-support-for-math--code)
+    - [Photos](#photos)
+  - [Other features](#other-features)
+    - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
+    - [Theming](#theming)
+    - [Social media previews](#social-media-previews)
+    - [Atom (RSS-like) Feed](#atom-rss-like-feed)
+    - [Related posts](#related-posts)
+- [Contributing](#contributing)
+  - [Maintainers](#maintainers)
+  - [All Contributors](#all-contributors)
+- [License](#license)
+- [User community](#user-community)
+- [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+- [Table Of Contents](#table-of-contents)
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+    - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
+    - [Local Setup (Legacy)](#local-setup-legacy)
+    - [Deployment](#deployment)
+    - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+  - [FAQ](#faq)
+- [Features](#features)
+  - [Publications](#publications)
+  - [Collections](#collections)
+  - [Layouts](#layouts)
+    - [The iconic style of Distill](#the-iconic-style-of-distill)
+    - [Full support for math \& code](#full-support-for-math--code)
+    - [Photos](#photos)
+  - [Other features](#other-features)
+    - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
+    - [Theming](#theming)
+    - [Social media previews](#social-media-previews)
+    - [Atom (RSS-like) Feed](#atom-rss-like-feed)
+    - [Related posts](#related-posts)
+- [Contributing](#contributing)
+  - [Maintainers](#maintainers)
+  - [All Contributors](#all-contributors)
+- [License](#license)
 
 ## Getting started
 
@@ -687,4 +715,4 @@ Made with [contrib.rocks](https://contrib.rocks).
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+Since then, it got a full re-write of the styles and many additional cool features. -->
